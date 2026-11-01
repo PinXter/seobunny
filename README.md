@@ -1,40 +1,48 @@
 # SEOBunny
 
-SEOBunny is a free Chrome extension for on-page SEO checks and whole-site audits.
+Find SEO problems, check your fixes and prepare clear client reports.
 
-It can inspect a single page, crawl an entire website, highlight SEO elements directly on the page and export audit results to TXT or CSV.
+[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/seobunny/fkakjfkfjngaiebappmccpajkiohmdnl)
 
-[Install SEOBunny from the Chrome Web Store](https://chromewebstore.google.com/detail/seobunny/fkakjfkfjngaiebappmccpajkiohmdnl)
+Start with a single page. Review a missing title, description or image text,
+fix it in your website editor and scan again. Each detailed tool includes a
+three-step **How to use** guide in English, Estonian, German, French, Spanish
+and Russian.
 
-## Features
+## What you can do
 
-- Single-page SEO reports
-- Whole-site audits using WordPress REST, XML sitemaps or crawling
-- SEO scores, issue filters and previous-scan comparisons
-- Title, meta description, heading and image alt checks
-- Canonical, hreflang, structured data and internal link checks
-- Search-result preview
-- On-page SEO highlighting
-- Persistent Chrome side panel and optional popup mode
-- CSV and TXT exports
-- Optional AI drafts using your own Anthropic, OpenAI, Google or xAI API key
-- English, Estonian, German, French, Spanish and Russian interface
-- Light and dark themes
+- Inspect page metadata, headings, images and links; highlight evidence on the page.
+- Scan a site and export findings to CSV or TXT.
+- Compare saved scans to check what changed after your fixes.
+- Find possible internal links in existing text, then add reviewed links yourself.
+- Check a redesign or migration for lost SEO fields and incorrect destinations.
+- Combine an imported Search Console Pages CSV with audit issues to decide what to fix first.
+- Inspect server/browser differences, indexability, structured data, images and accessibility.
+- Optionally draft fixes using your own AI-provider key or supported local browser AI.
 
-## Privacy
+## Free and optional Pro
 
-SEOBunny has no accounts, analytics, telemetry or advertising. The developer does not receive scan results, API keys or website content.
+The prepared 2.4.2 release keeps a useful Free audit: up to 100 pages per scan,
+unlimited runs/sites, comparisons, history, link analysis/suggestions,
+duplicate groups, technical checks, project backups and CSV/TXT exports.
+Own-key AI generation is free for one page at a time.
 
-When optional AI generation is used, selected page content and the user's API key are sent directly to the chosen AI provider.
+When Pro sales are enabled, Pro adds up to 1,000 pages per scan, HTML/PDF/XLSX
+reports, your branding, client profiles, multi-page AI generation and saved
+custom scan presets. Provider API charges are separate.
 
-[Read the privacy policy](https://pinxter.github.io/seobunny/privacy.html)
+The store build can differ while an update is under review. Follow the current
+extension/store offer; this repository does not activate a paid license.
 
-## Support
+## Privacy and support
 
-Found a bug or have a suggestion?
+Audit data and provider keys stay in your browser. Optional AI sends chosen
+content to the selected provider. Optional purchases and license activation
+use Freemius. [Read the privacy notice](https://pinxter.github.io/seobunny/privacy.html).
 
-[Open an issue](https://github.com/PinXter/seobunny/issues)
+For support: [support@binkycode.com](mailto:support@binkycode.com),
+or the [BinkyCode contact page](https://binkycode-website.binkycode.workers.dev/contact/).
+Include the extension version, browser and steps to reproduce an issue.
+Do not post keys, passwords or confidential audit data in public issues.
 
-## Developer
-
-SEOBunny is developed by [PinXter](https://github.com/PinXter) and was built from real day-to-day SEO work.
+SEOBunny is provided by **BinkyCode OÜ**, registry code **17575236**, Estonia.
