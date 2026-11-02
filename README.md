@@ -22,7 +22,7 @@ and Russian.
 
 ## Free and optional Pro
 
-Version 2.4.2 is available from the Chrome Web Store. Free includes up to 100 pages per scan,
+Version 2.4.4 is available from the Chrome Web Store. Free includes up to 100 pages per scan,
 unlimited runs/sites, comparisons, history, link analysis/suggestions,
 duplicate groups, technical checks, project backups and CSV/TXT exports.
 Own-key AI generation is free for one page at a time.
