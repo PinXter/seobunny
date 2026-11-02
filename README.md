@@ -22,17 +22,20 @@ and Russian.
 
 ## Free and optional Pro
 
-The prepared 2.4.2 release keeps a useful Free audit: up to 100 pages per scan,
+Version 2.4.2 is available from the Chrome Web Store. Free includes up to 100 pages per scan,
 unlimited runs/sites, comparisons, history, link analysis/suggestions,
 duplicate groups, technical checks, project backups and CSV/TXT exports.
 Own-key AI generation is free for one page at a time.
 
-When Pro sales are enabled, Pro adds up to 1,000 pages per scan, HTML/PDF/XLSX
+Pro adds up to 1,000 pages per scan, HTML/PDF/XLSX
 reports, your branding, client profiles, multi-page AI generation and saved
 custom scan presets. Provider API charges are separate.
 
-The store build can differ while an update is under review. Follow the current
-extension/store offer; this repository does not activate a paid license.
+Pro costs EUR 9/month or EUR 79/year before applicable tax, with two device
+activations and no trial. Checkout, billing and licenses are handled by Freemius.
+You can cancel automatic renewal and keep access for the remaining paid term.
+Refund requests are available within the first 14 days. Installing or uninstalling
+the extension does not create or cancel a subscription.
 
 ## Privacy and support
 
